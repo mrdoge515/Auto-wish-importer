@@ -1,4 +1,6 @@
 # Auto wish importer for paimon.moe
+## Project archived
+There is no way to update browser data with selenium, so this importer is literally useless.
 ## About
 This python script automatically runs powershell script provided by paimon.moe and imports it's output into the website without any user interaction needed. At the time it only works for Firefox but it will support Google Chrome soon.
 
